@@ -1,2 +1,2 @@
-# Lecutre_Operations_Research
-Colab Notebooks for Introduction to Operations Research and FLINK Case Study
+# Vorlesung Einführung Operations Research
+Colab Notebooks zu den vorgestellten Optimierungsproblem in der Vorlesung und Fallstudie zum Quick Commerce.
